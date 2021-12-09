@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Fireauth from './Component/Fireauth';
 
 function App() {
   return (
-    <h1>Hello</h1>
+   <Fireauth/>
   );
 }
 
